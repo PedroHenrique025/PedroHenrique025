@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/PedroHenrique025">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenrique025&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique025&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" width="500em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique025&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   
-  <img  height ="160em" align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif?cid=ecf05e47m87tryaxlofk6loyz3m3ohp5xi0x9uenp81xcncz&rid=giphy.gif&ct=g">
+  <img  height ="100em" align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif?cid=ecf05e47m87tryaxlofk6loyz3m3ohp5xi0x9uenp81xcncz&rid=giphy.gif&ct=g">
 </div>
   
  ##
