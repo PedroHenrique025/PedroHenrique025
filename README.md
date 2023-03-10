@@ -1,6 +1,8 @@
-### Olá! Eu sou o Pedro Henrique 
-- 🔭 Hoje trabalho com CSharp
-- 🌱 Estudando JavaScript
+### Olá! Eu sou o Pedro Camargo
+- 🔭 Desenvolvedor Full Stack
+- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistema - IFSP (Término 12/2024)(Prévia)
+- 📚 Experiência com desenvolvimento de aplicações web voltadas para empresas (ERP) utilizando Angular, C#(.Net Core)
+- 📚 Estudando de forma autônoma: Flutter, Angular e Skills para o ambiente de trabalho no desenvolvimento de softwares 
 - 😄 Pronouns: ele/dele
 
 <div>
