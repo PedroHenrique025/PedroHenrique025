@@ -21,7 +21,7 @@
   <img align="center" alt="Pedro-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img  height ="100em" align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif?cid=ecf05e47m87tryaxlofk6loyz3m3ohp5xi0x9uenp81xcncz&rid=giphy.gif&ct=g">
+  <!--<img  height ="100em" align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif?cid=ecf05e47m87tryaxlofk6loyz3m3ohp5xi0x9uenp81xcncz&rid=giphy.gif&ct=g">-->
 </div>
   
  ##
