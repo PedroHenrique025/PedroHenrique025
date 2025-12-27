@@ -5,20 +5,9 @@
 Me chamo Pedro H. Conceição Camargo, tenho 22 anos e sou natural de Catanduva no interior de São Paulo. Concluí o curso técnico em informática na ETEC Elias Nechar e também concluí Análise e Desenvolvimento de Sistemas no IFSP. Sou apaixonado por tecnologia e procuro sempre desenvolver para aprender algo novo ou refinar as habilidades que possuo.
 
 <p align="left">
-    <a href="https://github.com/PedroHenrique025?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenrique025?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/PedroHenrique025?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenrique025?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    <a href="https://instagram.com/pdrh.c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:pedrodevhub@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/pedroh-camargo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ---
