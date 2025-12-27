@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Camargo
+# 🧑🏻‍💻 Pedro Camargo
 
 **`Desenvolvedor Backend`**
 
