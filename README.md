@@ -141,3 +141,15 @@ Me chamo Pedro H. Conceição Camargo, tenho 22 anos e sou natural de Catanduva 
   />
 
 </p>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenrique025/PedroHenrique025/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenrique025/PedroHenrique025/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroHenrique025/PedroHenrique025/output/pacman-contribution-graph.svg">
+</picture>
+
+###
